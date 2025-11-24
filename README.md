@@ -48,11 +48,12 @@ Making network requests
 Working with **JSON** data
 Updating the **DOM**
 Handling failures gracefully
+Writing clean, modular code
+
+It’s simple enough for beginners but still demonstrates concepts used in real applications.
 
 ### Contact Information
 **Name:-** Sahil Vinodkumar Kapadia
 **E-mail:-** sahilkapadia27@gmail.com
 **Linkedin:-** www.linkedin.com/in/sahilkapadia2709
-Writing clean, modular code
 
-It’s simple enough for beginners but still demonstrates concepts used in real applications.
